@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "709804997653",
+    "project_id": "smartrtandroid8",
+    "storage_bucket": "smartrtandroid8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:709804997653:android:d393c20099ed687c98e21c",
+        "android_client_info": {
+          "package_name": "com.example.smartrt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "709804997653-0kdglrelgau7bapo74jeurhdnhhe9f7f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnIGMVTOMnlIPO5OHe_X1VdvOPBPWtZJI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "709804997653-0kdglrelgau7bapo74jeurhdnhhe9f7f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
